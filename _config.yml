@@ -8,6 +8,7 @@
 
 ## !USE TEXT THEME
 remote_theme: kitian616/jekyll-TeXt-theme
+theme: jekyll-text-theme
 #
 # ,--------.      ,--.   ,--. ,--.
 # '--.  .--',---.  \  `.'  /,-'  '-.
