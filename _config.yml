@@ -17,9 +17,9 @@ remote_theme: kitian616/jekyll-TeXt-theme
 
 text_color_theme: dark #eg: default | dark | forest | ocean | chocolate | orange
 ## Base settings ##
-url:  jimjing.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
+url: jimjing.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: JJLLceline
+title: Area 13
 description: > #this means to ignore newlines until "nav_lists:"
   Jim Jing's Blog
 
@@ -31,11 +31,11 @@ nav_lists:
       zh-Hant: 關於
     url: /about.html
 
-# paths:
-#   base: /
-#   home: /
-#   all:  /all.html
-#   rss:  /feed.xml
+paths:
+    base: /
+    home: /
+    all:  /all.html
+    rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 repository: jimjing/jimjing.github.io #e.g. someone/someone.github.io
