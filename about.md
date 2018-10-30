@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 titles:
   en: About
   zh: 关于
@@ -8,4 +8,8 @@ titles:
 key: page-about
 ---
 
-Just a happy boy.
+Welcome to my website.
+I mostly post my personal projects here.
+Hopefully you can find something useful here for you.
+
+![Logo](/assets/logo.png)

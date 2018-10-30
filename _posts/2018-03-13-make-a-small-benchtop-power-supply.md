@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Make a small benchtop power supply
 key: 20180313
 tags:
@@ -7,6 +7,13 @@ tags:
   - Hardware
   - Electrical
   - Mechanical
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/mini_power_supply/front_view.jpg
 ---
 I didn't move my benchtop power supply with me when I moved to an apartment.
 So the first thing I would like to make is a power supply for all my future electronic projects.

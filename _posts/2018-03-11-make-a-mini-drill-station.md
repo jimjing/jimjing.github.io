@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Make a mini drill station
 key: 20180311
 tags:
